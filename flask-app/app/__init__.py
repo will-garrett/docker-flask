@@ -6,3 +6,4 @@ redis = Redis(host='redis', port=6379)
 
 from app import routes
 
+print("Running...")
